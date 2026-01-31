@@ -1,0 +1,832 @@
+{
+    "services": [
+        {
+            "id": "1",
+            "title": "Cloud Migration & Modernization Services",
+            "shortDescription": "Secure, scalable cloud transformation",
+            "heroImage": "images/cloudService3.png",
+            "description": "Accelerate your digital transformation by moving applications, data, and infrastructure to the cloud securely and efficiently. Our Cloud Migration & Modernization services help organizations reduce costs, improve scalability, modernize legacy systems, and build future-ready platforms for long-term growth.",
+            "sections": [
+                {
+                    "id": 101,
+                    "title": "What We Do",
+                    "displayOrder": 1,
+                    "image": "images/cloudService1.png",
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "We guide organizations through every stage of their cloud journey, from strategy and planning to migration, modernization, and long-term optimization.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "1",
+                            "content": "Cloud readiness assessment and strategy",
+                            "displayOrder": 2
+                        },
+                        {
+                            "type": "1",
+                            "content": "Application, data, and infrastructure migration",
+                            "displayOrder": 3
+                        },
+                        {
+                            "type": "1",
+                            "content": "Cloud-native modernization and DevOps enablement",
+                            "displayOrder": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 102,
+                    "title": "Cloud Modernization Services",
+                    "displayOrder": 2,
+                    "image": "",
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "After migration, we modernize systems to fully leverage cloud-native capabilities and deliver better performance, scalability, and operational efficiency.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "1",
+                            "content": "Legacy application modernization",
+                            "displayOrder": 2
+                        },
+                        {
+                            "type": "1",
+                            "content": "Microservices and cloud-native architecture",
+                            "displayOrder": 3
+                        },
+                        {
+                            "type": "1",
+                            "content": "Containerization using Docker and Kubernetes",
+                            "displayOrder": 4
+                        },
+                        {
+                            "type": "1",
+                            "content": "Serverless computing solutions",
+                            "displayOrder": 5
+                        },
+                        {
+                            "type": "1",
+                            "content": "DevOps and CI/CD automation",
+                            "displayOrder": 6
+                        },
+                        {
+                            "type": "1",
+                            "content": "Cloud cost optimization (FinOps)",
+                            "displayOrder": 7
+                        }
+                    ]
+                },
+                {
+                    "id": 103,
+                    "title": "Why Choose Us",
+                    "displayOrder": 3,
+                    "image": "images/cloudService3.png",
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "Our cloud solutions are designed to deliver measurable business value while ensuring security, scalability, and long-term flexibility.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "2",
+                            "heading": "Scalable Solutions",
+                            "content": "Cloud platforms designed to grow on demand without infrastructure limitations.",
+                            "displayOrder": 2
+                        },
+                        {
+                            "type": "2",
+                            "heading": "Enhanced Security",
+                            "content": "Built-in security, governance, and compliance best practices.",
+                            "displayOrder": 3
+                        },
+                        {
+                            "type": "2",
+                            "heading": "Cost Efficiency",
+                            "content": "Optimized cloud spending with a pay-as-you-use model.",
+                            "displayOrder": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 104,
+                    "title": "Industries We Serve",
+                    "displayOrder": 4,
+                    "image": "",
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "We support organizations across multiple industries with tailored cloud solutions designed for specific regulatory and operational needs.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "1",
+                            "content": "Banking & Financial Services",
+                            "displayOrder": 2
+                        },
+                        {
+                            "type": "1",
+                            "content": "Healthcare & Life Sciences",
+                            "displayOrder": 3
+                        },
+                        {
+                            "type": "1",
+                            "content": "Retail & E-commerce",
+                            "displayOrder": 4
+                        },
+                        {
+                            "type": "1",
+                            "content": "Education & E-learning",
+                            "displayOrder": 5
+                        },
+                        {
+                            "type": "1",
+                            "content": "SaaS & Startups",
+                            "displayOrder": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 105,
+                    "title": "Start Your Cloud Journey Today with “Iwaan”",
+                    "displayOrder": 5,
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "Whether you’re planning your first cloud migration or looking to modernize existing cloud workloads, our experts are here to help you every step of the way.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "0",
+                            "content": "Contact us today to build a secure, scalable, and future-ready cloud environment.",
+                            "displayOrder": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "title": "Enterprise Application Development",
+            "shortDescription": "Enterprise-grade application platforms",
+            "description": "We design, develop, and modernize scalable, secure, and future-ready enterprise applications that power mission-critical business operations.",
+            "sections": [
+                {
+                    "id": 201,
+                    "title": "What We Do",
+                    "displayOrder": 1,
+                    "image": "images/Enterprise2.png",
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "We deliver end-to-end enterprise application development services tailored to your business processes, scalability goals, and compliance requirements.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "1",
+                            "content": "Custom enterprise application development",
+                            "displayOrder": 2
+                        },
+                        {
+                            "type": "1",
+                            "content": "Legacy system modernization",
+                            "displayOrder": 3
+                        },
+                        {
+                            "type": "1",
+                            "content": "System integration with ERP, CRM, and third-party APIs",
+                            "displayOrder": 4
+                        },
+                        {
+                            "type": "1",
+                            "content": "Cloud and SaaS-based enterprise platforms",
+                            "displayOrder": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 202,
+                    "title": "Our Approach",
+                    "displayOrder": 2,
+                    "image": "",
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "Our engineering-first approach ensures reliability, scalability, and measurable outcomes across every stage of delivery.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "0",
+                            "content": "Discovery & Planning to align business goals, users, and technical constraints.",
+                            "displayOrder": 2
+                        },
+                        {
+                            "type": "0",
+                            "content": "Architecture & Design focused on security, performance, and future scalability.",
+                            "displayOrder": 3
+                        },
+                        {
+                            "type": "0",
+                            "content": "Agile Development with iterative delivery, testing, and feedback.",
+                            "displayOrder": 4
+                        },
+                        {
+                            "type": "0",
+                            "content": "Deployment & Support with monitoring and continuous optimization.",
+                            "displayOrder": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 203,
+                    "title": "Technology Stack",
+                    "displayOrder": 3,
+                    "image": "images/Enterprise3.png",
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "We use modern, enterprise-grade technologies selected for stability, performance, and long-term maintainability.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "1",
+                            "content": "Backend: .NET, Java, Node.js",
+                            "displayOrder": 2
+                        },
+                        {
+                            "type": "1",
+                            "content": "Frontend: Angular, React, Flutter",
+                            "displayOrder": 3
+                        },
+                        {
+                            "type": "1",
+                            "content": "Databases: MySQL, PostgreSQL, SQL Server, NoSQL",
+                            "displayOrder": 4
+                        },
+                        {
+                            "type": "1",
+                            "content": "Cloud & DevOps: AWS, Azure, Docker, Kubernetes, CI/CD",
+                            "displayOrder": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 204,
+                    "title": "Why Choose Us",
+                    "displayOrder": 4,
+                    "image": "",
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "We combine enterprise-grade engineering with strong architectural leadership to deliver platforms built for long-term success.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "2",
+                            "heading": "Enterprise-First Mindset",
+                            "content": "Designed for scalability, performance, and durability.",
+                            "displayOrder": 2
+                        },
+                        {
+                            "type": "2",
+                            "heading": "CTO-Level Engineering",
+                            "content": "Strong architectural thinking beyond basic implementation.",
+                            "displayOrder": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 205,
+                    "title": "Industries We Serve",
+                    "displayOrder": 5,
+                    "image": "images/Enterprise1.png",
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "We deliver specialized application development services tailored to the unique regulatory and operational needs of these sectors.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "1",
+                            "content": "Financial Services & FinTech",
+                            "displayOrder": 2
+                        },
+                        {
+                            "type": "1",
+                            "content": "Logistics & Marketplaces",
+                            "displayOrder": 3
+                        },
+                        {
+                            "type": "1",
+                            "content": "Education & EdTech",
+                            "displayOrder": 4
+                        },
+                        {
+                            "type": "1",
+                            "content": "Healthcare & Services",
+                            "displayOrder": 5
+                        },
+                        {
+                            "type": "1",
+                            "content": "Retail & Enterprise Platforms",
+                            "displayOrder": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 206,
+                    "title": "Let’s Build Your Enterprise Platform",
+                    "displayOrder": 6,
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "Whether you’re launching a new enterprise system or modernizing an existing one, we help you turn complex requirements into reliable, high‑impact applications.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "0",
+                            "content": "Talk to us to start your enterprise application journey.",
+                            "displayOrder": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Financial Services & Capital Investments Consulting",
+            "shortDescription": "High-performance financial platforms",
+            "heroImage": "images/Finance3.png",
+            "description": "We help financial institutions modernize trading, portfolio, and risk platforms while delivering secure, compliant, and high-performance systems.",
+            "sections": [
+                {
+                    "id": 301,
+                    "title": "What We Do",
+                    "displayOrder": 1,
+                    "image": "images/Finance1.png",
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "We specialize in building and modernizing financial systems that demand high performance, accuracy, and regulatory compliance.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "1",
+                            "content": "Modernize trading, portfolio, and risk systems",
+                            "displayOrder": 2
+                        },
+                        {
+                            "type": "1",
+                            "content": "Design secure, compliant financial architectures",
+                            "displayOrder": 3
+                        },
+                        {
+                            "type": "1",
+                            "content": "Integrate market data, ESG, and analytics platforms",
+                            "displayOrder": 4
+                        },
+                        {
+                            "type": "1",
+                            "content": "Improve performance of high-volume financial data platforms",
+                            "displayOrder": 5
+                        },
+                        {
+                            "type": "1",
+                            "content": "Reduce delivery risk with expert technical leadership",
+                            "displayOrder": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 302,
+                    "title": "Business Benefits",
+                    "displayOrder": 2,
+                    "image": "",
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "Our financial platforms deliver measurable improvements in performance, accuracy, and operational reliability.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "2",
+                            "heading": "High Performance",
+                            "content": "Low-latency systems capable of processing large volumes of financial data.",
+                            "displayOrder": 2
+                        },
+                        {
+                            "type": "2",
+                            "heading": "Operational Accuracy",
+                            "content": "Reliable calculations and reporting for mission-critical decisions.",
+                            "displayOrder": 3
+                        },
+                        {
+                            "type": "2",
+                            "heading": "Security & Compliance",
+                            "content": "Architected for regulated financial environments.",
+                            "displayOrder": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 303,
+                    "title": "Our Approach",
+                    "displayOrder": 3,
+                    "image": "images/Finance3.png",
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "We follow a disciplined, iterative methodology to ensure your financial platforms are built for scale, performance, and compliance.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "2",
+                            "heading": "Understand the Business",
+                            "content": "Deep collaboration with trading, risk, and operations teams to align technology with business goals.",
+                            "displayOrder": 2
+                        },
+                        {
+                            "type": "2",
+                            "heading": "Deliver with Confidence",
+                            "content": "Iterative delivery aimed at meeting strict timelines, budgets, and regulatory requirements.",
+                            "displayOrder": 4
+                        },
+                        {
+                            "type": "2",
+                            "heading": "Support & Optimize",
+                            "content": "Providing ongoing enhancements, performance tuning, and critical system support.",
+                            "displayOrder": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 304,
+                    "title": "Why Financial Institutions Choose Us",
+                    "displayOrder": 4,
+                    "image": "",
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "We are a trusted partner for long-term modernization initiatives, combining technical excellence with deep market knowledge.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "1",
+                            "content": "Deep domain expertise in capital markets and asset management",
+                            "displayOrder": 2
+                        },
+                        {
+                            "type": "1",
+                            "content": "Proven experience building mission-critical financial platforms",
+                            "displayOrder": 3
+                        },
+                        {
+                            "type": "1",
+                            "content": "Strong focus on performance, accuracy, and reliability",
+                            "displayOrder": 4
+                        },
+                        {
+                            "type": "1",
+                            "content": "End-to-end ownership from architecture through production support",
+                            "displayOrder": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 305,
+                    "title": "Technology Stack",
+                    "displayOrder": 5,
+                    "image": "",
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "We use proven, enterprise-grade technologies trusted by financial institutions to ensure stability and security.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "1",
+                            "content": "Backend: .NET, C#, Java",
+                            "displayOrder": 2
+                        },
+                        {
+                            "type": "1",
+                            "content": "Frontend: Angular, Web Applications, Desktop (WPF)",
+                            "displayOrder": 3
+                        },
+                        {
+                            "type": "1",
+                            "content": "Data: SQL Server, High-Performance Databases, Analytics Engines",
+                            "displayOrder": 4
+                        },
+                        {
+                            "type": "1",
+                            "content": "Cloud & DevOps: Azure, AWS, CI/CD, Automation",
+                            "displayOrder": 5
+                        },
+                        {
+                            "type": "1",
+                            "content": "Integrations: REST APIs, Bloomberg API, ESG Providers",
+                            "displayOrder": 6
+                        },
+                        {
+                            "type": "1",
+                            "content": "Analytics: Power BI, Reporting Platforms",
+                            "displayOrder": 7
+                        }
+                    ]
+                },
+                {
+                    "id": 306,
+                    "title": "Industries We Serve",
+                    "displayOrder": 6,
+                    "image": "images/Finance4.jpg",
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "Our specialized consulting services cater to a wide range of sectors within the financial industry.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "1",
+                            "content": "Asset Management & Investment Firms",
+                            "displayOrder": 2
+                        },
+                        {
+                            "type": "1",
+                            "content": "Capital Markets & Trading Desks",
+                            "displayOrder": 3
+                        },
+                        {
+                            "type": "1",
+                            "content": "Investment & Commercial Banking",
+                            "displayOrder": 4
+                        },
+                        {
+                            "type": "1",
+                            "content": "Real Estate & Alternative Investments",
+                            "displayOrder": 5
+                        },
+                        {
+                            "type": "1",
+                            "content": "Financial Analytics & Risk Teams",
+                            "displayOrder": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 307,
+                    "title": "Let’s Build the Next-Generation Financial Platform",
+                    "displayOrder": 7,
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "Whether you’re modernizing trading systems, enhancing risk analytics, or scaling investment platforms, we help you deliver secure, high-performance solutions that support your investment strategy.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "0",
+                            "content": "Contact us today to transform your financial technology ecosystem.",
+                            "displayOrder": 2
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "title": "Integration & Automation Services",
+            "shortDescription": "Connected and automated operations",
+            "heroImage": "images/Automation3.jpg",
+            "description": "We eliminate silos and manual effort by integrating systems and automating workflows across your enterprise technology ecosystem.",
+            "sections": [
+                {
+                    "id": 401,
+                    "title": "What We Do",
+                    "displayOrder": 1,
+                    "image": "images/Automation5.jpg",
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "We design and implement integration and automation solutions that streamline operations and improve system connectivity.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "1",
+                            "content": "Application and API integrations",
+                            "displayOrder": 2
+                        },
+                        {
+                            "type": "1",
+                            "content": "Workflow and process automation",
+                            "displayOrder": 3
+                        },
+                        {
+                            "type": "1",
+                            "content": "Real-time and batch data synchronization",
+                            "displayOrder": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 402,
+                    "title": "Why Choose Us",
+                    "displayOrder": 2,
+                    "image": "",
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "Our automation-first approach helps organizations reduce cost, errors, and operational complexity.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "2",
+                            "heading": "Automation-First Thinking",
+                            "content": "Designed to reduce manual effort and improve efficiency.",
+                            "displayOrder": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 403,
+                    "title": "Our Approach",
+                    "displayOrder": 3,
+                    "image": "images/Automation3.jpg",
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "We follow a structured, automation‑first methodology focused on reliability, security, and long‑term scalability.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "2",
+                            "heading": "Process Assessment",
+                            "content": "Identify integration gaps, manual bottlenecks, and automation opportunities.",
+                            "displayOrder": 2
+                        },
+                        {
+                            "type": "2",
+                            "heading": "Solution Architecture",
+                            "content": "Design secure, scalable integration layers and automation workflows.",
+                            "displayOrder": 3
+                        },
+                        {
+                            "type": "2",
+                            "heading": "Implementation & Orchestration",
+                            "content": "Build APIs, connectors, and automated workflows using proven frameworks.",
+                            "displayOrder": 4
+                        },
+                        {
+                            "type": "2",
+                            "heading": "Testing & Validation",
+                            "content": "Ensure data accuracy, performance, and failure handling across systems.",
+                            "displayOrder": 5
+                        },
+                        {
+                            "type": "2",
+                            "heading": "Monitoring & Optimization",
+                            "content": "Continuous monitoring, logging, and optimization for peak efficiency.",
+                            "displayOrder": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 404,
+                    "title": "Integration & Automation Use Cases",
+                    "displayOrder": 4,
+                    "image": "",
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "We apply our expertise to solve common business challenges through specific, high-impact integration scenarios.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "1",
+                            "content": "Order‑to‑Cash and Procure‑to‑Pay automation",
+                            "displayOrder": 2
+                        },
+                        {
+                            "type": "1",
+                            "content": "CRM ↔ ERP ↔ Accounting integrations",
+                            "displayOrder": 3
+                        },
+                        {
+                            "type": "1",
+                            "content": "Payment processing and reconciliation",
+                            "displayOrder": 4
+                        },
+                        {
+                            "type": "1",
+                            "content": "User onboarding and access provisioning",
+                            "displayOrder": 5
+                        },
+                        {
+                            "type": "1",
+                            "content": "Reporting and data pipeline automation",
+                            "displayOrder": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 405,
+                    "title": "Technology Stack",
+                    "displayOrder": 5,
+                    "image": "images/Automation2.jpg",
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "We use enterprise‑grade tools and platforms selected for performance and reliability.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "1",
+                            "content": "Integration: REST APIs, Webhooks, Message Queues",
+                            "displayOrder": 2
+                        },
+                        {
+                            "type": "1",
+                            "content": "Automation: Workflow engines, serverless functions, schedulers",
+                            "displayOrder": 3
+                        },
+                        {
+                            "type": "1",
+                            "content": "Backend: .NET, Java, Node.js",
+                            "displayOrder": 4
+                        },
+                        {
+                            "type": "1",
+                            "content": "Data: MySQL, PostgreSQL, SQL Server, NoSQL",
+                            "displayOrder": 5
+                        },
+                        {
+                            "type": "1",
+                            "content": "Cloud & DevOps: AWS, Azure, Docker, CI/CD",
+                            "displayOrder": 6
+                        },
+                        {
+                            "type": "1",
+                            "content": "Security: OAuth, role‑based access, encryption",
+                            "displayOrder": 7
+                        }
+                    ]
+                },
+                {
+                    "id": 406,
+                    "title": "Industries We Support",
+                    "displayOrder": 6,
+                    "image": "",
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "Our flexible integration frameworks are designed to support critical operations across diverse sectors.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "1",
+                            "content": "FinTech & Financial Services",
+                            "displayOrder": 2
+                        },
+                        {
+                            "type": "1",
+                            "content": "Marketplaces & Logistics",
+                            "displayOrder": 3
+                        },
+                        {
+                            "type": "1",
+                            "content": "Education & EdTech",
+                            "displayOrder": 4
+                        },
+                        {
+                            "type": "1",
+                            "content": "Healthcare & Services",
+                            "displayOrder": 5
+                        },
+                        {
+                            "type": "1",
+                            "content": "Enterprise SaaS Platforms",
+                            "displayOrder": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 407,
+                    "title": "Let’s Automate Your Business",
+                    "displayOrder": 7,
+                    "items": [
+                        {
+                            "type": "0",
+                            "content": "From simple system integrations to complex enterprise automation, we help you build connected, intelligent operations.",
+                            "displayOrder": 1
+                        },
+                        {
+                            "type": "0",
+                            "content": "Contact us to start your integration and automation journey.",
+                            "displayOrder": 2
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

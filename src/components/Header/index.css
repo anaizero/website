@@ -1,0 +1,13 @@
+.Header{
+  background-color: rgb(255,255,255,0.4);
+  backdrop-filter: blur(10px);
+}
+.navbar .nav-link.active {
+    font-weight: bold;
+    color: #1363c6 !important;
+  }
+  
+  .dropdown-menu {
+    margin-top: 0.5rem;
+    border-radius: 0.25rem;
+  }

@@ -1,0 +1,46 @@
+/* ResponsiveCarousel.css */
+.carousel{
+    background-color: white;
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    background-color: rgba(196, 196, 196, 0.521);
+
+}
+.carousel-indicators [data-bs-target] {
+  background-color: #0049d3 !important; /* default color for inactive */
+  width: 12px;
+  height: 12px;
+  /* border-radius: 50%; */
+  margin: 0 5px;
+  transition: background-color 0.3s ease;
+  /* opacity: 1; */
+}
+
+.carousel-indicators .active {
+  background-color: orange !important; /* active color */
+}
+.carousel-content {
+    padding: 2rem 0rem;
+  }
+  
+  .carousel-text {
+    text-align: left;
+    justify-self: justify;
+  }
+  
+  .carousel-image {
+    text-align: center;
+  }
+  
+  @media (max-width: 767px) {
+    .carousel-text {
+      order: 2;
+      text-align: center;
+    }
+  
+    .carousel-image {
+      order: 1;
+      margin-bottom: 1rem;
+    }
+  }
+  

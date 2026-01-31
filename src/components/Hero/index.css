@@ -1,0 +1,26 @@
+.hero-bg {
+    /* background: linear-gradient(to top, #ffffff, #1363c6); */
+    background-color: #1363c6 !important;
+    padding-bottom: 0px;
+  }
+  
+  .custom-button {
+    background-color: white !important;
+    color: black !important;
+    font-weight: 500;
+  }
+  
+  
+  .hero-fade-in {
+    opacity: 0;
+    transform: translateY(20px);
+    animation: heroFadeIn 0.9s ease forwards;
+  }
+  
+  @keyframes heroFadeIn {
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  

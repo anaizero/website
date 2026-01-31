@@ -1,0 +1,16 @@
+.core-value-card {
+    border: none;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    border-radius: 12px;
+  }
+  
+  .core-value-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.08);
+  }
+  
+  /* .core-values-section {
+    background-color: #f9f9f9;
+  } */
+  

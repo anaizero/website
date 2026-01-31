@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Strategic Consulting",
+        "description": "We analyze your business needs to build a roadmap for success.",
+        "image": "/images/services/cloud/whatwedo.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Custom Development",
+        "description": "Tailored software solutions ensuring scalability and performance.",
+        "image": "/images/services/enterprise/whatwedo.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Cloud Modernization",
+        "description": "Transforming legacy systems into agile, cloud-native platforms.",
+        "image": "/images/services/cloud/modernization.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Data & AI",
+        "description": "Leveraging data intelligence to drive smarter business decisions.",
+        "image": "/images/services/finance/benefits.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Cybersecurity",
+        "description": "Robust security frameworks to protect your digital assets.",
+        "image": "/images/services/integration/why.jpg"
+    },
+    {
+        "id": 6,
+        "title": "Managed Services",
+        "description": "24/7 support and maintenance for uninterrupted operations.",
+        "image": "/images/services/architecture/why.jpg"
+    }
+]
