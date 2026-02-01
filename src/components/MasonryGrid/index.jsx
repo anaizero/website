@@ -3,13 +3,13 @@ import { motion } from 'framer-motion';
 import cloudComputing from "../../assets/cloudcomputing.jpg";
 import managedIT from "../../assets/carousel3.jpg";
 import Advisory from "../../assets/carousel2.jpg";
-import ProfileImage from "../../assets/profile.jpg";
+// import ProfileImage from "../../assets/profile.jpg";
 
 const projects = [
     { id: 1, title: "Cloud Migration", category: "Infrastructure", image: cloudComputing, height: "h-64" },
     { id: 2, title: "AI Analytics", category: "Data Science", image: managedIT, height: "h-96" },
     { id: 3, title: "Cyber Security", category: "Security", image: Advisory, height: "h-72" },
-    { id: 4, title: "Mobile App", category: "Development", image: ProfileImage, height: "h-80" },
+    { id: 4, title: "Mobile App", category: "Development", image: Advisory, height: "h-80" },
     { id: 5, title: "IoT Platform", category: "Innovation", image: cloudComputing, height: "h-64" },
     { id: 6, title: "Blockchain", category: "FinTech", image: managedIT, height: "h-72" },
 ];

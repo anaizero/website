@@ -1,6 +1,6 @@
 import Hero from "../../components/Hero"
 import AIZlogo from "../../assets/AIZLogo.png"
-import ProfileImage from "../../assets/profile.jpg";
+import ProfileImage from "../../assets/profile_pic.png";
 import Stats from "../../components/Stats";
 import Carousel from "../../components/Carousel";
 import { motion } from "framer-motion";

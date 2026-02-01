@@ -21,7 +21,7 @@ const Stats = () => {
   const statsData = [
     { label: "Authenticity", value: 100, icon: <FaFingerprint /> },
     { label: "Security", value: 100, icon: <FaShieldAlt /> },
-    { label: "User Experienc", value: 100, icon: <FaSmileBeam /> },
+    { label: "User Experience", value: 100, icon: <FaSmileBeam /> },
     { label: "Innovation", value: 100, icon: <FaLightbulb /> },
   ];
 
